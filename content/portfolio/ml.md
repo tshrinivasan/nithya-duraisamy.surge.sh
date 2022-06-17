@@ -1,0 +1,8 @@
++++
+date = "2022-05-14T21:35:17-07:00"
+title = "எளிய தமிழில் Machine Learning"
+image = "img/portfolio/machine-learning.jpg"
+alt = "எளிய தமிழில் Machine Learning"
+color = "#7ac143"
+link1 = "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/"
++++

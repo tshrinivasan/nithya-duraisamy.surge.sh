@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Nithya Duraisamy</title>
+    <link>https://nithyadurai87.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Nithya Duraisamy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2022 21:35:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://nithyadurai87.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>எளிய தமிழில் Deep Learning</title>
+      <link>https://nithyadurai87.github.io/portfolio/deep-learning/</link>
+      <pubDate>Sun, 15 May 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் Machine Learning</title>
+      <link>https://nithyadurai87.github.io/portfolio/ml/</link>
+      <pubDate>Sat, 14 May 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் Big Data</title>
+      <link>https://nithyadurai87.github.io/portfolio/bigdata/</link>
+      <pubDate>Fri, 13 May 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் Selenium</title>
+      <link>https://nithyadurai87.github.io/portfolio/selenium/</link>
+      <pubDate>Sat, 12 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் JavaScript</title>
+      <link>https://nithyadurai87.github.io/portfolio/js/</link>
+      <pubDate>Fri, 11 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் CSS</title>
+      <link>https://nithyadurai87.github.io/portfolio/css/</link>
+      <pubDate>Thu, 10 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் HTML</title>
+      <link>https://nithyadurai87.github.io/portfolio/html/</link>
+      <pubDate>Wed, 09 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் MySQL - Part 2</title>
+      <link>https://nithyadurai87.github.io/portfolio/mysql-2/</link>
+      <pubDate>Sat, 05 Mar 2022 00:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/mysql-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் MySQL - Part 1</title>
+      <link>https://nithyadurai87.github.io/portfolio/mysql-1/</link>
+      <pubDate>Fri, 04 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/mysql-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் GNU/Linux - Part 2</title>
+      <link>https://nithyadurai87.github.io/portfolio/linux-2/</link>
+      <pubDate>Thu, 03 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/linux-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் GNU/Linux - Part 1</title>
+      <link>https://nithyadurai87.github.io/portfolio/linux-1/</link>
+      <pubDate>Wed, 02 Mar 2022 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithyadurai87.github.io/portfolio/linux-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

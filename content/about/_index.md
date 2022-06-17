@@ -1,0 +1,39 @@
++++
+date = "2016-11-05T21:05:33+05:30"
+title = "About Me"
++++
+
+## Free/Open Source Contributions
+- Founder of [Kaniyam Foundation](http://Kaniyam.com/Foundation)
+- Founder of Tamil E-Magazine for Free/Open Source Software - [Kaniyam.com](http://Kaniyam.com)
+- [Author of 11 Books in Tamil on Various Technologies](FreeTamilEbooks.com/authors/nithyaduraisamy)
+- Trainer via [YouTube Tutorials](https://www.youtube.com/nithyaduraisamy)
+- Mentoring students on Free/Open Source Technologies
+- Contributing to Tamil Computing 
+- Contributing [Open-Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil), a NLP package in Python for Tamil
+
+## Skills
+- GNU/Linux 
+- Python
+- Machine Learning
+- Deep Learning
+- Bigdata
+- ETL
+- Automation
+- MySQL
+- DevOps
+
+## Work History
+- Tata Consultancy Services- Chennai - Data Scientist   2018 - Till Date
+- Hexaware- Chennai - BigData Developer  2016 - 2018
+- Cognizant - Chennai/UK - ETL Developer - Subversion 2012 - 2016
+- Infosys- Chennai — Software Tester  2007 - 2012
+
+## Education
+- University of Madras - B.C.A  2004 - 2007
+
+
+## Awards
+- [Ananda vikadan - Top 10 Youth Award 2020](http://www.kaniyam.com/ananda-vikadan-top-10-award/)
+- [Tamil Internet Couple Award 2019 - Tamil Nadu Government - INFITT](https://goinggnu.wordpress.com/2019/09/24/received-tamil-internet-couple-award/)
+- Working Women Achievers Award 2018

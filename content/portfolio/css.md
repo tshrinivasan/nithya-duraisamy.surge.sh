@@ -1,0 +1,8 @@
++++
+date = "2022-03-10T21:35:17-07:00"
+title = "எளிய தமிழில் CSS"
+image = "img/portfolio/css.jpg"
+alt = "எளிய தமிழில் CSS"
+color = "#7ac143"
+link1 = "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/"
++++
