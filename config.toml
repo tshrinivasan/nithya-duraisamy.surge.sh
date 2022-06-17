@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
+  description = "Welcome to Nithya Duraisamy's Website."
   copyright = "&copy;2016 Kaniyam.com"
   sidebarImage = "/img/nithya.jpg"
   sidebarAbout = [
