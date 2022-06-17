@@ -1,8 +1,54 @@
 +++
-date = "2022-03-04T21:35:17-07:00"
+showonlyimage = true
+date = "2022-03-04T00:35:17-07:00"
 title = "எளிய தமிழில் MySQL - Part 1"
 image = "img/portfolio/mysql-1.png"
 alt = "எளிய தமிழில் MySQL - Part 1"
 color = "#7ac143"
-link1 = "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/"
+link1 = "https://freetamilebooks.com/ebooks/learn-mysql-in-tamil/"
 +++
+
+
+
+
+<!--more-->
+
+
+[![cover](/img/portfolio/mysql-1-small.png)](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil/)
+
+# நூல் அறிமுகம்
+
+MySQL பரவலாக பயன்படுத்தப்படும் ஒரு கட்டற்ற மென்பொருள் 
+( Free Open Source Software ) வகையிலான Database System.
+இதை , இந்த நூல் எளிமையாக அறிமுகம் செய்கிறது .
+
+தமிழில் கட்டற்ற மென்பொருட்கள் பற்றிய தகவல்களை “ கணியம் ” மின் மாத இதழ் , 2012 முதல் வெளியிட்டு  வருகிறது . இதில் வெளியான MySQL பற்றிய கட்டுரைகளுடன் , மேலும் புதிய பகுதிகளை இணைத்து ஒரு முழு புத்தகமாக வெளியிடுவதில் பெரு மகிழ்ச்சி கொள்கிறோம் .
+
+உங்கள் கருத்துகளையும் , பிழை திருத்தங்களையும் editor@kaniyam.com க்கு மின்னஞ்சல் அனுப்பலாம் .
+
+படித்து பயன் பெறவும் , பிறருடன் பகிர்ந்து மகிழவும் வேண்டுகிறோம் .
+
+கணியம் இதழை தொடர்ந்து வளர்க்கும் அனைத்து அன்பர்களுக்கும் எமது நன்றிகள் .
+
+ 
+
+து.நித்யா
+நூலின் பதிவிறக்க இணைப்பு - https://freetamilebooks.com/ebooks/learn-mysql-in-tamil/
+  
+
+
+# உரிமை
+இந்த நூல் கிரியேடிவ் காமன்ஸ் என்ற உரிமையில் வெளியிடப்படுகிறது . CC-BY-SA 
+
+இதன் மூலம், நீங்கள்
+
+யாருடனும் பகிர்ந்து கொள்ளலாம்.
+
+திருத்தி எழுதி வெளியிடலாம்.
+
+வணிக ரீதியிலும்யன்படுத்தலாம்.
+
+ஆனால், மூலப் புத்தகம், ஆசிரியர் மற்றும் www.kaniyam.com பற்றிய விவரங்களை சேர்த்து தர வேண்டும். இதே உரிமைகளை யாவருக்கும் தர வேண்டும். கிரியேடிவ் காமன்ஸ் என்ற உரிமையில் வெளியிட வேண்டும்.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+
