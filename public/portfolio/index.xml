@@ -6,10 +6,24 @@
     <description>Recent content in Portfolios on Nithya Duraisamy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 21:35:17 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2023 21:35:17 -0700</lastBuildDate><atom:link href="https://nithya-duraisamy.surge.sh/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>எளிய தமிழில் Devops</title>
+      <link>https://nithya-duraisamy.surge.sh/portfolio/devops/</link>
+      <pubDate>Sat, 07 Oct 2023 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithya-duraisamy.surge.sh/portfolio/devops/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://nithya-duraisamy.surge.sh/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>எளிய தமிழில் Pandas</title>
+      <link>https://nithya-duraisamy.surge.sh/portfolio/pandas/</link>
+      <pubDate>Mon, 15 May 2023 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithya-duraisamy.surge.sh/portfolio/pandas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>எளிய தமிழில் Deep Learning</title>

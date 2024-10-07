@@ -6,11 +6,7 @@
     <description>Recent content on Nithya Duraisamy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 21:35:17 -0700</lastBuildDate>
-    
-	<atom:link href="https://nithya-duraisamy.surge.sh/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 07 Oct 2023 21:35:17 -0700</lastBuildDate><atom:link href="https://nithya-duraisamy.surge.sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Name of the work 2</title>
       <link>https://nithya-duraisamy.surge.sh/old-content/work2/</link>
@@ -99,6 +95,24 @@
       
       <guid>https://nithya-duraisamy.surge.sh/old-content/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் Devops</title>
+      <link>https://nithya-duraisamy.surge.sh/portfolio/devops/</link>
+      <pubDate>Sat, 07 Oct 2023 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithya-duraisamy.surge.sh/portfolio/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>எளிய தமிழில் Pandas</title>
+      <link>https://nithya-duraisamy.surge.sh/portfolio/pandas/</link>
+      <pubDate>Mon, 15 May 2023 21:35:17 -0700</pubDate>
+      
+      <guid>https://nithya-duraisamy.surge.sh/portfolio/pandas/</guid>
+      <description></description>
     </item>
     
     <item>
